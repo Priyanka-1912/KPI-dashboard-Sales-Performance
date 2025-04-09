@@ -25,7 +25,7 @@ My goal with this dashboard was to create a tool that empowers users to make inf
   - Tom Ashbrook: ₹20K
  
 ## Images
-![images](https://github.com/Priyanka-1912/KPI-dashboard-Sales-Performance/blob/main/Screenshot_2025-04-09_152524.png)
+![images](https://github.com/Priyanka-1912/KPI-dashboard-Sales-Performance/blob/main/Screenshot_2025-04-09_152455.png)
 
 ## Benefits
 I’m proud of how this dashboard can make a difference:
